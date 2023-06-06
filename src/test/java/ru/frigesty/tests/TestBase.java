@@ -11,5 +11,4 @@ public class TestBase {
         Configuration.pageLoadStrategy = "eager";
         Configuration.holdBrowserOpen = true;
     }
-
 }
